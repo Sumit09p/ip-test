@@ -1,0 +1,41 @@
+.blog-page {
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 2rem;
+  }
+  
+  .blog-page h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .blog-page p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+  }
+  
+  .blog-page button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    margin-top: 2rem;
+  }
+  
+  .blog-page button:hover {
+    background-color: #218838;
+  }
+  
+  /* BlogPage.css */
+.error {
+    color: red;
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
