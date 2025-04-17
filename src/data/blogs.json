@@ -1,0 +1,41 @@
+[
+    {
+      "id": "1",
+      "title": "Understanding Bitcoin",
+      "excerpt": "A deep dive into the fundamentals of Bitcoin and its underlying technology.",
+      "chapters": [
+        {
+          "title": "What is Bitcoin?",
+          "content": "<p>Bitcoin is a decentralized digital currency ...</p>"
+        },
+        {
+          "title": "How Bitcoin Works",
+          "content": "<p>Bitcoin operates on a decentralized peer-to-peer network ...</p>"
+        },
+        {
+          "title": "The Future of Bitcoin",
+          "content": "<p>As Bitcoin continues to grow, its role as a store of value ...</p>"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Ethereum and Smart Contracts",
+      "excerpt": "Explore the world of Ethereum and how smart contracts are revolutionizing finance.",
+      "chapters": [
+        {
+          "title": "Introduction to Ethereum",
+          "content": "<p>Ethereum is a decentralized platform that allows developers ...</p>"
+        },
+        {
+          "title": "Smart Contracts Explained",
+          "content": "<p>A smart contract is a self-executing digital agreement ...</p>"
+        },
+        {
+          "title": "DeFi Revolution",
+          "content": "<p>Decentralized Finance (DeFi) is revolutionizing the world of finance ...</p>"
+        }
+      ]
+    }
+  ]
+  
